@@ -1,7 +1,6 @@
 # 💰 IntelliExpense Analytics
 
-> 📊📊 IntelliExpense Analytics is a web-based expense tracking application that helps users manage their daily spending with interactive visualizations and smart insights. It provides category-wise analysis using charts and offers recommendations to improve financial habits.
-
+> 📊IntelliExpense Analytics is a web-based expense tracking application that helps users manage their daily spending with interactive visualizations and smart insights. It provides category-wise analysis using charts and offers recommendations to improve financial habits.
 ---
 
 ## 🚀 Features
