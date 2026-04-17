@@ -34,17 +34,23 @@
 ## 📸 Project Preview
 
 ### 🏠 Dashboard
-![Dashboard](dashboard.png)
+<p align="center">
+  <img src="dashboard.png" width="600"/>
+</p>
 
 ---
 
 ### 💸 Expenses Page
-![Expenses](expenses.png)
+<p align="center">
+  <img src="expenses.png" width="600"/>
+</p>
 
 ---
 
 ### 📊 Analytics
-![Analytics](analytics.png)
+<p align="center">
+  <img src="analytics.png" width="600"/>
+</p>
 
 
 ---
