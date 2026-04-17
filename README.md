@@ -33,7 +33,20 @@
 
 ## 📸 Project Preview
 
-> *(You can add screenshots here later for better presentation)*
+> ## 📸 Project Preview
+
+### 🏠 Dashboard
+![Dashboard](dashboard.png)
+
+---
+
+### 💸 Expenses Page
+![Expenses](expenses.png)
+
+---
+
+### 📊 Analytics
+![Analytics](analytics.png)
 
 ---
 
