@@ -33,6 +33,19 @@
 
 ## 📸 Project Preview
 
+### 🏠 Dashboard
+![Dashboard](dashboard.png)
+
+---
+
+### 💸 Expenses Page
+![Expenses](expenses.png)
+
+---
+
+### 📊 Analytics
+![Analytics](analytics.png)
+
 
 ---
 
